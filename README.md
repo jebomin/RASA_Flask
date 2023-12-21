@@ -17,10 +17,10 @@ pip install Flask==3.0.0
 ```
 
 ### 2. 실행
-visual studio code에서 해당 파일을 다운로드 받은 후 터미널에 다음 명령어 입력 후 run.py 실행</br>
+visual studio code에서 해당 파일을 다운로드 받은 후 터미널에 다음 명령어 입력 후 app.py 실행</br>
 ```bash
 rasa run
 ```
 
-## 📷 결과화면
+## 📷 실행 화면
 ![image](https://github.com/jebomin/RASA_Flask/assets/42407430/7a2282ee-5e26-4d90-8c32-1e7fd2cb5e26)
